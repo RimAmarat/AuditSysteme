@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:09:14.447Z" agent="5.0 (X11)" etag="GgGeC-_Ig4TBpdS234ks" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:38:30.149Z" agent="5.0 (X11)" etag="2US5Oi-8jeIlzH8xjvkp" version="16.6.6" type="github">
   <diagram id="YqP27WUokVk4O-feUTNu" name="Page-1">
     <mxGraphModel dx="1422" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,22 +8,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Umk5Mk7T6SRKJrNun_KQ-1" value="&lt;div&gt;Clique sur itinéraires&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="20" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="30" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Umk5Mk7T6SRKJrNun_KQ-2" target="Umk5Mk7T6SRKJrNun_KQ-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Umk5Mk7T6SRKJrNun_KQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Umk5Mk7T6SRKJrNun_KQ-2" value="&lt;div&gt;Entrée de départ, arrivée, temps&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Umk5Mk7T6SRKJrNun_KQ-4" target="Umk5Mk7T6SRKJrNun_KQ-7">
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Umk5Mk7T6SRKJrNun_KQ-11" target="Umk5Mk7T6SRKJrNun_KQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="210" />
+              <mxPoint x="350" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Umk5Mk7T6SRKJrNun_KQ-7" target="Umk5Mk7T6SRKJrNun_KQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-4" value="&lt;div&gt;Calcul de l&#39;itineraire&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-7" value="&lt;div&gt;Proposition des 3 meilleurs itineraires&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-7" value="&lt;div&gt;Proposition de s3 meilleurs itineraires&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-11" value="&lt;div&gt;Calcul des meilleurs itinéraire&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Umk5Mk7T6SRKJrNun_KQ-13" target="Umk5Mk7T6SRKJrNun_KQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-13" value="&lt;div&gt;Choix d&#39;un itinéraire&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-15" value="Affiche les détails de l&#39;itinéraire : Carte, durée, arrêts, corrépondances" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-20" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="400" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-21" value="&lt;b&gt;Scénario 1:Recherche d&#39;itinéraire&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Umk5Mk7T6SRKJrNun_KQ-20">
+          <mxGeometry x="97.5" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-25" value="&lt;div&gt;Lahcene&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-26" value="&lt;div&gt;Thomas&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Umk5Mk7T6SRKJrNun_KQ-27" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
