@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T15:25:35.130Z" agent="5.0 (X11)" etag="3zHPq2GiYRE4hZPyOT2A" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T15:34:23.646Z" agent="5.0 (X11)" etag="CFdTy569PDWTH3J2-jmO" version="16.6.7" type="github">
   <diagram id="YqP27WUokVk4O-feUTNu" name="Page-1">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UJO03gXzS-ZTNtGmvzBQ-23" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="590" width="800" height="250" as="geometry" />
+          <mxGeometry x="20" y="580" width="820" height="250" as="geometry" />
         </mxCell>
         <mxCell id="UJO03gXzS-ZTNtGmvzBQ-3" value="Clique sur les infors trafic" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UJO03gXzS-ZTNtGmvzBQ-23">
           <mxGeometry x="20" y="100" width="80" height="80" as="geometry" />
@@ -232,6 +232,33 @@
         </mxCell>
         <mxCell id="UJO03gXzS-ZTNtGmvzBQ-25" value="&lt;b&gt;Scénario 6:&amp;nbsp; Consulter les info trafic&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UJO03gXzS-ZTNtGmvzBQ-23">
           <mxGeometry x="90" y="20" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-26" value="&lt;div&gt;Clique sur Plan&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-27" value="Affiche les plans disponibles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-28" value="Télécharger le plan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="905" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UJO03gXzS-ZTNtGmvzBQ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="970" as="sourcePoint" />
+            <mxPoint x="190" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UJO03gXzS-ZTNtGmvzBQ-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="970" as="sourcePoint" />
+            <mxPoint x="380" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-31" value="&lt;b&gt;Scénario 7: Plans&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJO03gXzS-ZTNtGmvzBQ-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="840" width="820" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
