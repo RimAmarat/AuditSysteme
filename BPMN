@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T09:22:23.767Z" agent="5.0 (X11)" etag="9xTXmiA-msYGs9VS9jfU" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T09:24:30.812Z" agent="5.0 (X11)" etag="9WLmelx9AASzzQBZQQfF" version="17.4.0" type="github">
   <diagram id="W_an0geDKsx6kDc-sBLU" name="Page-1">
     <mxGraphModel dx="2858" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T3H69ph43mhRToaFslGa-3" value="AlloBus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=north;" vertex="1" parent="umcTGsgD207Sh6oZLsL7-1">
-          <mxGeometry x="510" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T3H69ph43mhRToaFslGa-4" value="Velopop&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=north;" vertex="1" parent="umcTGsgD207Sh6oZLsL7-1">
           <mxGeometry x="510" y="920" width="120" height="60" as="geometry" />
@@ -206,20 +206,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="T3H69ph43mhRToaFslGa-39" value="Affichage des bus en temp réel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;gradientDirection=north;" vertex="1" parent="umcTGsgD207Sh6oZLsL7-1">
+          <mxGeometry x="1030" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3H69ph43mhRToaFslGa-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="umcTGsgD207Sh6oZLsL7-1" source="T3H69ph43mhRToaFslGa-39" target="T3H69ph43mhRToaFslGa-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="600" as="sourcePoint" />
+            <mxPoint x="670" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3H69ph43mhRToaFslGa-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="umcTGsgD207Sh6oZLsL7-1" source="T3H69ph43mhRToaFslGa-2" target="T3H69ph43mhRToaFslGa-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="600" as="sourcePoint" />
+            <mxPoint x="850" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3H69ph43mhRToaFslGa-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="umcTGsgD207Sh6oZLsL7-1" source="vek7NQmNhn5eSgyKTy0Q-2" target="T3H69ph43mhRToaFslGa-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="190" as="sourcePoint" />
+            <mxPoint x="620" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="530" />
+              <mxPoint x="230" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vek7NQmNhn5eSgyKTy0Q-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=21;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-770" y="770" as="sourcePoint" />
             <mxPoint x="-770" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T3H69ph43mhRToaFslGa-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T3H69ph43mhRToaFslGa-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-540" y="260" as="sourcePoint" />
-            <mxPoint x="-150" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-540" y="600" />
-              <mxPoint x="-540" y="850" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T3H69ph43mhRToaFslGa-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T3H69ph43mhRToaFslGa-4">
