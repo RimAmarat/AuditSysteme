@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T06:58:34.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.0" etag="PzCUpWjvHwv03P71tHpz" type="github"><diagram id="sAjsDUkEWfiIBzeQyFHE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T07:11:38.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="OcbIPXIbC4jYtsDIt8ca" version="17.4.0" type="github">
+  <diagram id="sAjsDUkEWfiIBzeQyFHE" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Conception Génerale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-2" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Projet Chorizo++&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-3" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-4" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Visualisation de tout les bus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-5" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP Highlight&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-6" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP Infos Traffic&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-7" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Intégration&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-8" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Intégration Chorizo++&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-7" target="eMm70R-aUIUnvNYAYgmm-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-2" target="eMm70R-aUIUnvNYAYgmm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="120" />
+              <mxPoint x="100" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-3" target="eMm70R-aUIUnvNYAYgmm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="140" as="sourcePoint" />
+            <mxPoint x="340" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="120" />
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-4" target="eMm70R-aUIUnvNYAYgmm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="120" />
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-5" target="eMm70R-aUIUnvNYAYgmm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="120" />
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-6" target="eMm70R-aUIUnvNYAYgmm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="120" />
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-7" target="eMm70R-aUIUnvNYAYgmm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="120" />
+              <mxPoint x="240" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-21" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Conception&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-22" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Dev Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-23" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Test Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-24" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Conception Visualisation de tout les bus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-25" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Dev Visualisation de tout les bus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-26" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Test Visualisation de tout les bus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-27" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Conception Highlight&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-28" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-29" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-30" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-31" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-32" value="&lt;span style=&quot;font-size: 17px&quot;&gt;SP&amp;nbsp; Bus Tracker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-3" target="eMm70R-aUIUnvNYAYgmm-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-36" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-21" target="eMm70R-aUIUnvNYAYgmm-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMm70R-aUIUnvNYAYgmm-37" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMm70R-aUIUnvNYAYgmm-22" target="eMm70R-aUIUnvNYAYgmm-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
